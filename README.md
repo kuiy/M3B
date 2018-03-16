@@ -1,2 +1,2 @@
 # M3B
-A Markov blanket discovery algorithm with latent common causes
+A MB mining algorithm without causal sufficiency
